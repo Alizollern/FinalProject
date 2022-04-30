@@ -10,5 +10,5 @@ type Service interface {
 }
 
 type service struct {
-	storage Store
+	// storage Store
 }
